@@ -2,7 +2,7 @@ void settings() {
   size(400, 800, P2D);
 }
 void setup() {
-  background(200, 100, 0);
+  background(255,255,51);
   noLoop();
 }
 void draw() {
